@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Muhammad Huzaifa
+# ⚡ Engr M.Huzaifa
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Agentic+AI+Engineer;%26+Full+Stack+Developer;Building+the+Future+with+AI;Crafting+Intelligent+Solutions" alt="Typing SVG" />
 
