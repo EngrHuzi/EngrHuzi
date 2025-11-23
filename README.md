@@ -2,7 +2,7 @@
 
 # ⚡ Muhammad Huzaifa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;Building+the+Future+with+AI;Crafting+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Agentic+AI+Engineer;%26+Full+Stack+Developer;Building+the+Future+with+AI;Crafting+Intelligent+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -160,7 +160,7 @@ const projects = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngHuzaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngrHuzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
@@ -260,14 +260,8 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 <div align="center">
 
-### 🎵 Current Vibe
 
-[![Spotify](https://novatorem-kohl-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-<br>
 
 **⭐ From [Muhammad Huzaifa](https://github.com/EngrHuzi) | Made with 💙 and ☕**
 
-<img src="https://raw.EngrHuzi.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-</div>
