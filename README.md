@@ -160,16 +160,17 @@ const projects = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngrHuzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+![](https://github-readme-stats.vercel.app/api?username=EngrHuzi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EngrHuzi&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EngrHuzi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-alpha-jade.vercel.app?user=EngrHuzi)](https://git.io/streak-stats)
 </div>
 
 ### 📈 Contribution Graph
