@@ -24,7 +24,7 @@
 ```typescript
 const huzaifa = {
     location: "Lahore, Pakistan 🇵🇰",
-    role: "AI Engineer & Full Stack Developer",
+    role: "Agentic AI Engineer",
     focus: ["AI Agents", "LLMs", "Web Development"],
     currentlyLearning: ["Advanced AI Systems", "Distributed Computing"],
     funFact: "I turn coffee into intelligent code ☕→🤖",
@@ -78,7 +78,7 @@ const huzaifa = {
 **Agent Frameworks**
 - 🧠 OpenAI Agent SDK
 - 🦜 LangChain & LangGraph
-- 🚢 CrewAI
+
 
 
 </td>
@@ -114,7 +114,7 @@ const huzaifa = {
 - 🔄 Git & GitHub Actions
 - 🐳 Docker & Containerization  
 - 📝 VS Code & Jupyter
-- 🎨 Figma for UI/UX
+
 
 </details>
 
@@ -130,7 +130,7 @@ const huzaifa = {
 ```python
 def my_expertise():
     return {
-        'LLM_Integration': ['GPT-4', 'Claude', 'Llama'],
+        'LLM_Integration': ['GPT-4', 'Claude', 'Gemini'],
         'Agent_Systems': ['Multi-agent', 'RAG', 'Tools'],
         'Automation': ['Workflows', 'Pipelines', 'Bots'],
         'Fine_Tuning': ['Custom Models', 'Embeddings']
@@ -145,7 +145,7 @@ def my_expertise():
 const projects = {
     frontend: ['React', 'Next.js', 'Tailwind'],
     backend: ['FastAPI', 'Node.js', 'Express'],
-    database: ['PostgreSQL', 'MongoDB', 'Pinecone'],
+    database: ['PostgreSQL', 'NeonDB', 'Pinecone'],
     deployment: ['Vercel', 'AWS', 'Docker']
 };
 ```
