@@ -181,17 +181,6 @@ const projects = {
 
 </div>
 
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EngrHuzi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
