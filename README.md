@@ -1,248 +1,301 @@
 <div align="center">
 
-# ⚡ Engr M.Huzaifa
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20AI%20Engineer%20%7C%20Building%20Tomorrow's%20Intelligence&descAlignY=51&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Agentic+AI+Engineer;Building+the+Future+with+AI;Crafting+Intelligent+Solutions" alt="Typing SVG" />
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;LLM+Integration+Specialist+%F0%9F%A7%A0;Building+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" /></a>
 
-</div>
+<br/>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/muhammad-huzaifa-79ab1a2a1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/huzi_x99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhuzaifaai890@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://huziportfolio.vercel.app/)
+<!-- Animated Badges -->
+<p>
+  <a href="http://linkedin.com/in/muhammad-huzaifa-79ab1a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://huziportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A192F"/>
+  </a>
+  <a href="mailto:muhammadhuzaifaai890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+  <a href="https://www.instagram.com/huzi_x99">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=EngrHuzi&label=Profile%20Visitors&color=00D9FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="AI Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-```typescript
-const huzaifa = {
-    location: "Lahore, Pakistan 🇵🇰",
-    role: "Agentic AI Engineer",
-    focus: ["AI Agents", "LLMs", "Web Development"],
-    currentlyLearning: ["Advanced AI Systems", "Distributed Computing"],
-    funFact: "I turn coffee into intelligent code ☕→🤖",
-    
-    dailyRoutine: () => {
-        while (alive) {
-            eat();
-            code();
-            buildAI();
-            innovate();
+```python
+class AiEngineer:
+    def __init__(self):
+        self.name = "Muhammad Huzaifa"
+        self.role = "Agentic AI Engineer"
+        self.location = "Lahore, Pakistan 🇵🇰"
+        self.expertise = {
+            "ai_frameworks": ["OpenAI SDK", "Claude AI", "LangChain", "LangGraph"],
+            "languages": ["Python", "JavaScript", "TypeScript"],
+            "web_stack": ["React", "Next.js", "FastAPI", "Node.js"],
+            "cloud_native": ["Docker", "Kubernetes", "AWS"],
+            "databases": ["PostgreSQL", "Pinecone", "ChromaDB"],
+            "specialization": "Building Intelligent AI Agents"
         }
-    }
-};
+    
+    def current_focus(self):
+        return [
+            "🤖 Multi-Agent AI Systems",
+            "🧠 Advanced LLM Integration (OpenAI, Claude, Gemini)", 
+            "⚡ AI-Powered Automation with FastAPI",
+            "☁️ Cloud-Native AI Deployments (Docker + K8s)"
+        ]
+    
+    def say_hi(self):
+        return "Let's build the future with AI! ☕→🤖"
+
+me = AiEngineer()
+print(me.say_hi())
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Tech Arsenal
-
-<details open>
-<summary><b>🎯 Core Technologies</b></summary>
-<br>
-
-**Languages & Frameworks**
-```
-💻 Primary Stack
-├─ Python          ████████████████░░  95%
-├─ JavaScript/TS   ██████████████░░░░  90%
-├─ React.js        █████████████░░░░░  85%
-└─ Next.js         ████████████░░░░░░  80%
-```
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,tailwind" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-**AI Frameworks & Tools**
-
-<table>
-<tr>
-<td width="50%">
-
-**Agent Frameworks**
-- 🧠 OpenAI Agent SDK
-- 🦜 LangChain & LangGraph
-
-
-
-</td>
-<td width="50%">
-
-**ML & Data**
-- 🔢 Pandas & NumPy
-- 📈 Scikit-learn
-- 🎯 Hugging Face 
-
-</td>
-</tr>
-</table>
-
-<p>
-<!-- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> -->
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🛠️ Development Tools</b></summary>
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman,cursor,colab" />
-</p>
-
-**Additional Tools**
-- 🔄 Git & GitHub Actions
-- 🐳 Docker & Containerization  
-- 📝 VS Code & Jupyter
-
-
-</details>
-
----
-
-## 💼 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 AI Engineering
-```python
-def my_expertise():
-    return {
-        'LLM_Integration': ['GPT-4', 'Claude', 'Gemini'],
-        'Agent_Systems': ['Multi-agent', 'RAG', 'Tools'],
-        'Automation': ['Workflows', 'Pipelines', 'Bots'],
-        'Fine_Tuning': ['Custom Models', 'Embeddings']
-    }
-```
-
-</td>
-<td width="50%">
-
-### 🌐 Full Stack Development
-```javascript
-const projects = {
-    frontend: ['React', 'Next.js', 'Tailwind'],
-    backend: ['FastAPI', 'Node.js', 'Express'],
-    database: ['PostgreSQL', 'NeonDB', 'Pinecone'],
-    deployment: ['Vercel', 'AWS', 'Docker']
-};
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Technology Stack
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=EngrHuzi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind&perline=9" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EngrHuzi&theme=radical&hide_border=false)
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-8E44AD?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend & API Development
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### DevOps & Cloud Native
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Development Tools & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,bash,postman,fastapi&perline=9" />
+</p>
+
+### Vector Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 </div>
+
+---
+
+## 💼 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+- **LLM Integration** - OpenAI, Claude AI, Gemini
+- **AI Agents** - Multi-agent systems with LangGraph
+- **RAG Systems** - Advanced retrieval pipelines
+- **Custom Models** - Fine-tuning & embeddings
+- **AI Automation** - Intelligent workflow orchestration
+- **Tool Integration** - API connections & function calling
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack & Cloud-Native
+- **Backend** - FastAPI, Node.js, Express
+- **Frontend** - React, Next.js, TypeScript
+- **Containerization** - Docker, Docker Compose
+- **Orchestration** - Kubernetes (K8s)
+- **Databases** - PostgreSQL, Pinecone, NeonDB
+- **Cloud Deployment** - AWS, Vercel, Cloud-native solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EngrHuzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrHuzi&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngrHuzi&theme=radical&utcOffset=5" alt="Productive Time"/>
+</div>
+
+### 📈 Contribution Activity
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-alpha-jade.vercel.app?user=EngrHuzi)](https://git.io/streak-stats)
+[![Huzaifa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngrHuzi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity)](https://github.com/EngrHuzi)
+
 </div>
 
-### 📈 Contribution Graph
+---
+
+## 🎯 Current Focus & Learning
 
 <div align="center">
 
-[![Huzaifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EngrHuzi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| 🔭 Building | 🌱 Learning | 💡 Exploring |
+|------------|------------|--------------|
+| AI-powered SaaS with FastAPI | Advanced LLM architectures | Agentic AI frameworks |
+| Cloud-native AI deployments | Kubernetes orchestration | Real-time AI applications |
+| Multi-agent orchestration | Claude AI integration | AI-driven automation |
+| Dockerized microservices | RAG optimization techniques | Vector database solutions |
 
 </div>
 
+---
 
-## 🎯 Current Focus
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=EngrHuzi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy"/>
+</a>
+
+</div>
+
+---
+
+## 💡 Technical Philosophy
+
+<div align="center">
+
+```typescript
+const philosophy = {
+  code: "Poetry in motion",
+  ai: "The brush that paints the future",
+  innovation: "The masterpiece we create together",
+  
+  tech_stack: {
+    ai_models: ["OpenAI", "Claude AI", "Gemini"],
+    backend: ["FastAPI", "Node.js"],
+    cloud_native: ["Docker", "Kubernetes"],
+    focus: "Scalable, intelligent solutions"
+  },
+  
+  believe_in: [
+    "AI as a tool for human augmentation, not replacement",
+    "Cloud-native architecture for scalable AI systems",
+    "Clean, maintainable code over quick hacks",
+    "Continuous learning and adaptation",
+    "Building solutions that make a real impact"
+  ],
+  
+  daily_routine: () => {
+    while (passionate) {
+      learn();
+      build();
+      innovate();
+      deploy_with_docker();
+      scale_with_kubernetes();
+      share_knowledge();
+    }
+  }
+};
+```
+
+<br/>
+
+> ### *"The best way to predict the future is to build it with AI"*
+> ### *"Every line of code is a step toward tomorrow's intelligence"*
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm passionate about working on innovative projects that push the boundaries of AI and technology. Whether it's building intelligent agents, crafting seamless user experiences, or solving complex problems with code - I'm always excited to collaborate!
+
+### 🌟 Open For
 
 <table>
-<tr>
-<td width="33%">
-
-**🔭 Building**
-- AI-powered SaaS products
-- Multi-agent systems
-- Autonomous workflows
-
-</td>
-<td width="33%">
-
-**🌱 Learning**
-- Advanced LLM architectures
-- Distributed AI systems
-- Web3 integration
-
-</td>
-<td width="33%">
-
-**💡 Exploring**
-- Agentic AI frameworks
-- Real-time AI applications
-- AI-driven automation
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50"/><br/>
+      <b>Freelance Projects</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="50"/><br/>
+      <b>Full-Time Opportunities</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="50"/><br/>
+      <b>Open Source Collaboration</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/><br/>
+      <b>Tech Discussions</b>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## 💭 Philosophy
+### 📬 Reach Out
 
-<div align="center">
+<p>
+  <a href="mailto:muhammadhuzaifaai890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhammadhuzaifaai890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-> *"The best way to predict the future is to build it with AI."*
-
-> *"Code is poetry, AI is the muse, and innovation is the masterpiece."*
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always excited to collaborate on innovative projects, especially those involving **AI**, **automation**, and **cutting-edge web technologies**. Let's build something amazing together!
-
-### 🌟 Open to:
-**Freelance Projects** • **Full-Time Opportunities** • **Open Source Collaboration** • **Tech Discussions**
-
-<br>
-
-**📧 Best way to reach me:** [muhammadhuzaifaai890@gmail.com](mailto:muhammadhuzaifaai890@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=EngrHuzi&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+<p>
+  <a href="http://linkedin.com/in/muhammad-huzaifa-79ab1a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Huzaifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://huziportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -250,8 +303,12 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 <div align="center">
 
+### 💙 Thanks for visiting!
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ From [Muhammad Huzaifa](https://github.com/EngrHuzi) | Made with 💙 and ☕**
+**⭐ From [Muhammad Huzaifa](https://github.com/EngrHuzi) | Crafted with 💙, ☕, and AI**
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
+</div>
