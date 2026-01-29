@@ -156,8 +156,7 @@ print(me.say_hi())
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EngrHuzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrHuzi&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streaks-eight.vercel.app?user=EngrHuzi&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
