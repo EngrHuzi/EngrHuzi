@@ -189,14 +189,6 @@ print(me.say_hi())
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EngrHuzi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
-  </a>
-</div>
-
 ---
 
 ## 💡 Technical Philosophy
