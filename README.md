@@ -41,10 +41,10 @@ class AiEngineer:
         self.role = "Agentic AI Engineer"
         self.location = "Lahore, Pakistan 🇵🇰"
         self.expertise = {
-            "ai_frameworks": ["OpenAI SDK", "Claude AI", "LangChain", "LangGraph"],
+            "ai_frameworks": ["OpenAI Agent SDK", "Claude AI","LlamaIndex"],
             "languages": ["Python", "JavaScript", "TypeScript"],
-            "web_stack": ["React", "Next.js", "FastAPI", "Node.js"],
-            "cloud_native": ["Docker", "Kubernetes", "AWS"],
+            "web_stack": ["React", "Next.js", "FastAPI", "Node.js","Chainlit CUI"],
+            "cloud_native": ["Docker", "Kubernetes"],
             "databases": ["PostgreSQL", "Pinecone", "ChromaDB"],
             "specialization": "Building Intelligent AI Agents"
         }
