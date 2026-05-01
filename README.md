@@ -44,7 +44,7 @@ class MuhammadHuzaifa:
         self.stack = {
             "frontend"   : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
             "backend"    : ["Node.js", "Express", "FastAPI", "Python"],
-            "ai"         : ["OpenAI Agents SDK", "LangChain", "LangGraph",
+            "ai"         : ["OpenAI Agents SDK", "LangChain",
                             "LlamaIndex", "Claude AI", "Gemini"],
             "voice_ai"   : ["LiveKit Agents", "Deepgram Nova-3", "Groq LLM", "Cartesia Sonic-3", "Twilio SIP", "MCP"],
             "cloud"      : ["Docker", "Kubernetes", "Vercel", "AWS"],
@@ -208,9 +208,7 @@ print("Let's build intelligent systems — together. ☕→🤖")
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streaks-eight.vercel.app?user=EngrHuzi&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-huzi.vercel.app?user=EngrHuzi" alt="GitHub Streak" /></a>
 
 <br/><br/>
 
