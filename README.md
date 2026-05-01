@@ -1,151 +1,142 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20AI%20Engineer%20%7C%20Building%20Tomorrow's%20Intelligence&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descAlign=50"/>
 
-<!-- Dynamic Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;LLM+Integration+Specialist+%F0%9F%A7%A0;Building+Intelligent+Solutions+%E2%9A%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+Intelligent+Agentic+Systems+%F0%9F%A4%96;Full+Stack+Dev+%E2%80%94+MERN+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;LLM+Integration+%26+RAG+Pipelines+%F0%9F%A7%A0;Voice+AI+%7C+Multi-Agent+Orchestration+%F0%9F%94%8A;Cloud-Native+Deployments+%E2%80%94+Docker+%2B+K8s+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Animated Badges -->
 <p>
   <a href="http://linkedin.com/in/muhammad-huzaifa-79ab1a2a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://huziportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A192F"/>
   </a>
   <a href="mailto:muhammadhuzaifaai890@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/huzi_x99">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=EngrHuzi&label=Profile%20Visitors&color=00D9FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=EngrHuzi&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="AI Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
 ```python
-class AiEngineer:
+class MuhammadHuzaifa:
     def __init__(self):
-        self.name = "Muhammad Huzaifa"
-        self.role = "Agentic AI Engineer"
-        self.location = "Lahore, Pakistan 🇵🇰"
-        self.expertise = {
-            "ai_frameworks": ["OpenAI Agent SDK", "Claude AI","LlamaIndex"],
-            "languages": ["Python", "JavaScript", "TypeScript"],
-            "web_stack": ["React", "Next.js", "FastAPI", "Node.js","Chainlit CUI"],
-            "cloud_native": ["Docker", "Kubernetes"],
-            "databases": ["PostgreSQL", "Pinecone", "ChromaDB"],
-            "specialization": "Building Intelligent AI Agents"
+        self.name      = "Muhammad Huzaifa"
+        self.location  = "Lahore, Pakistan 🇵🇰"
+        self.education = "BS Software Engineering — University of Lahore"
+        self.roles     = ["Full Stack Developer", "Agentic AI Engineer"]
+
+        self.stack = {
+            "frontend"   : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+            "backend"    : ["Node.js", "Express", "FastAPI", "Python"],
+            "ai"         : ["OpenAI Agents SDK", "LangChain", "LangGraph",
+                            "LlamaIndex", "Claude AI", "Gemini"],
+            "voice_ai"   : ["LiveKit Agents", "Deepgram Nova-3", "Groq LLM", "Cartesia Sonic-3", "Twilio SIP", "MCP"],
+            "cloud"      : ["Docker", "Kubernetes", "Vercel", "AWS"],
+            "databases"  : ["PostgreSQL", "MongoDB", "Pinecone", "ChromaDB"],
         }
-    
+
     def current_focus(self):
         return [
-            "🤖 Multi-Agent AI Systems",
-            "🧠 Advanced LLM Integration (OpenAI, Claude, Gemini)", 
-            "⚡ AI-Powered Automation with FastAPI",
-            "☁️ Cloud-Native AI Deployments (Docker + K8s)"
+            "🤖 Agentic & Multi-Agent AI Systems",
+            "🔊 Voice AI Agents (real-time calls + LLM)",
+            "🧠 RAG Pipelines & LLM Integration",
+            "☁️  Cloud-Native Deployments (Docker + K8s)",
         ]
-    
-    def say_hi(self):
-        return "Let's build the future with AI! ☕→🤖"
 
-me = AiEngineer()
-print(me.say_hi())
+me = MuhammadHuzaifa()
+print("Let's build intelligent systems — together. ☕→🤖")
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind&perline=9" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_AI-8E44AD?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### Backend & API Development
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### DevOps & Cloud Native
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### Development Tools & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,bash,postman,fastapi&perline=9" />
-</p>
-
-### Vector Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## 💼 What I Build
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
-- **LLM Integration** - OpenAI, Claude AI, Gemini
-- **AI Agents** - Multi-agent systems with LangGraph
-- **RAG Systems** - Advanced retrieval pipelines
-- **Custom Models** - Fine-tuning & embeddings
-- **AI Automation** - Intelligent workflow orchestration
-- **Tool Integration** - API connections & function calling
+### 🔊 LiveKit Outbound Voice AI Agent
+> Production-ready AI phone agent for outbound calls
+
+- Two-process architecture: persistent agent worker + SIP call trigger
+- **STT** Deepgram Nova-3 · **LLM** Groq (Llama 3.3 70B) · **TTS** Cartesia Sonic-3
+- Twilio SIP trunking via LiveKit · Silero VAD for turn management
+- **MCP tool integration** — Calendar (book/cancel/check) & CRM (create/score/update leads) via Model Context Protocol
+- Agent personas: Appointment Reminder & Lead Qualification
+
+**Stack:** `LiveKit` `Deepgram` `Groq` `Cartesia` `Twilio` `MCP` `Python 3.13`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi/livekit-outbound-agent)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack & Cloud-Native
-- **Backend** - FastAPI, Node.js, Express
-- **Frontend** - React, Next.js, TypeScript
-- **Containerization** - Docker, Docker Compose
-- **Orchestration** - Kubernetes (K8s)
-- **Databases** - PostgreSQL, Pinecone, NeonDB
-- **Cloud Deployment** - AWS, Vercel, Cloud-native solutions
+### 🧠 RAG Pipeline System
+> Production-grade Retrieval-Augmented Generation
+
+- Multi-source document ingestion & chunking
+- Semantic search via Pinecone / ChromaDB
+- LlamaIndex orchestration + OpenAI embeddings
+- FastAPI REST interface with streaming responses
+
+**Stack:** `LlamaIndex` `Pinecone` `FastAPI` `OpenAI` `Docker`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent Orchestration System
+> LangGraph-based autonomous agent network
+
+- Supervisor + specialist agent architecture
+- Tool-calling: web search, code execution, APIs
+- Stateful graph with memory & checkpointing
+- Deployed via Docker on cloud infrastructure
+
+**Stack:** `LangGraph` `LangChain` `OpenAI` `Docker` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 AI-Integrated Full Stack App
+> Next.js + FastAPI + LLM-powered web application
+
+- MERN / Next.js frontend with real-time AI chat
+- JWT auth, PostgreSQL via NeonDB, REST APIs
+- Chainlit CUI for conversational interface layer
+- Containerized with Docker Compose
+
+**Stack:** `Next.js` `FastAPI` `PostgreSQL` `Chainlit` `Docker`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
 
 </td>
 </tr>
@@ -153,136 +144,128 @@ print(me.say_hi())
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streaks-eight.vercel.app?user=EngrHuzi&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngrHuzi&theme=radical&utcOffset=5" alt="Productive Time"/>
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  
-[![Huzaifa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngrHuzi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity)](https://github.com/EngrHuzi)
-
-</div>
-
----
-
-## 🎯 Current Focus & Learning
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 💡 Exploring |
-|------------|------------|--------------|
-| AI-powered SaaS with FastAPI | Advanced LLM architectures | Agentic AI frameworks |
-| Cloud-native AI deployments | Kubernetes orchestration | Real-time AI applications |
-| Multi-agent orchestration | Claude AI integration | AI-driven automation |
-| Dockerized microservices | RAG optimization techniques | Vector database solutions |
+### Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,tailwind&perline=8"/>
+</p>
 
-</div>
+### AI / ML Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-8E44AD?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge&logo=llama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
----
+### Voice AI
+<p>
+  <img src="https://img.shields.io/badge/LiveKit-E03247?style=for-the-badge&logo=livekit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logo=deepgram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cartesia-6C63FF?style=for-the-badge&logo=audio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logo=protocol&logoColor=white"/>
+</p>
 
----
+### Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-## 💡 Technical Philosophy
+### Databases & Vector Stores
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-<div align="center">
-
-```typescript
-const philosophy = {
-  code: "Poetry in motion",
-  ai: "The brush that paints the future",
-  innovation: "The masterpiece we create together",
-  
-  tech_stack: {
-    ai_models: ["OpenAI", "Claude AI", "Gemini"],
-    backend: ["FastAPI", "Node.js"],
-    cloud_native: ["Docker", "Kubernetes"],
-    focus: "Scalable, intelligent solutions"
-  },
-  
-  believe_in: [
-    "AI as a tool for human augmentation, not replacement",
-    "Cloud-native architecture for scalable AI systems",
-    "Clean, maintainable code over quick hacks",
-    "Continuous learning and adaptation",
-    "Building solutions that make a real impact"
-  ],
-  
-  daily_routine: () => {
-    while (passionate) {
-      learn();
-      build();
-      innovate();
-      deploy_with_docker();
-      scale_with_kubernetes();
-      share_knowledge();
-    }
-  }
-};
-```
-
-<br/>
-
-> ### *"The best way to predict the future is to build it with AI"*
-> ### *"Every line of code is a step toward tomorrow's intelligence"*
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&perline=6"/>
+</p>
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate!
+## 📊 GitHub Stats
 
 <div align="center">
 
-I'm passionate about working on innovative projects that push the boundaries of AI and technology. Whether it's building intelligent agents, crafting seamless user experiences, or solving complex problems with code - I'm always excited to collaborate!
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streaks-eight.vercel.app?user=EngrHuzi&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</a>
 
-### 🌟 Open For
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrHuzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngrHuzi&theme=radical&utcOffset=5"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngrHuzi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity)](https://github.com/EngrHuzi)
+
+</div>
+
+---
+
+## 🎯 What I Build
+
+<div align="center">
+
+| Domain | Capabilities |
+|--------|-------------|
+| 🔊 **Voice AI Agents** | Real-time call handling, STT/TTS, LLM-driven conversation flows |
+| 🤖 **Agentic Systems** | Multi-agent pipelines, tool use, OpenAI Agent SDK |
+| 🧠 **RAG & LLM** | Document ingestion, semantic search, streaming completions |
+| 🌐 **Full Stack** | Next.js + FastAPI apps, REST/GraphQL APIs, auth, real-time |
+| ☁️ **Cloud-Native** | Dockerized microservices, K8s orchestration, CI/CD |
+
+</div>
+
+---
+
+## 🤝 Open For
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50"/><br/>
-      <b>Freelance Projects</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="50"/><br/>
-      <b>Full-Time Opportunities</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="50"/><br/>
-      <b>Open Source Collaboration</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/><br/>
-      <b>Tech Discussions</b>
-    </td>
+    <td align="center" width="25%">🚀<br/><b>Full-Time Roles</b></td>
+    <td align="center" width="25%">🛠️<br/><b>Freelance Projects</b></td>
+    <td align="center" width="25%">🌍<br/><b>Open Source</b></td>
   </tr>
 </table>
 
 <br/>
-
-### 📬 Reach Out
 
 <p>
   <a href="mailto:muhammadhuzaifaai890@gmail.com">
     <img src="https://img.shields.io/badge/Email-muhammadhuzaifaai890%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 <p>
   <a href="http://linkedin.com/in/muhammad-huzaifa-79ab1a2a1">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Huzaifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://huziportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-huziportfolio.vercel.app-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -292,12 +275,10 @@ I'm passionate about working on innovative projects that push the boundaries of 
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+> *"Build things that think."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ From [Muhammad Huzaifa](https://github.com/EngrHuzi) | Crafted with 💙, ☕, and AI**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+**⭐ [Muhammad Huzaifa](https://github.com/EngrHuzi) · Lahore, Pakistan · Crafted with 💙 & ☕**
 
 </div>
