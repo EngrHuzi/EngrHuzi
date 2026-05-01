@@ -95,51 +95,23 @@ print("Let's build intelligent systems — together. ☕→🤖")
 > Production-grade Retrieval-Augmented Generation
 
 - Multi-source document ingestion & chunking
-- Semantic search via Pinecone / ChromaDB
+- Intelligent chunking + semantic search with Chroma
 - LlamaIndex orchestration + OpenAI embeddings
 - FastAPI REST interface with streaming responses
+- AI-generated answers using Google Gemini 2.5 Flash
 
-**Stack:** `LlamaIndex` `Pinecone` `FastAPI` `OpenAI` `Docker`
+**Stack:** `LlamaIndex` `ChromaDB` `FastAPI` `Google Gemini` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi/RAG-App)
 
 </td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
 
-### 🤖 Multi-Agent Orchestration System
-> LangGraph-based autonomous agent network
 
-- Supervisor + specialist agent architecture
-- Tool-calling: web search, code execution, APIs
-- Stateful graph with memory & checkpointing
-- Deployed via Docker on cloud infrastructure
 
-**Stack:** `LangGraph` `LangChain` `OpenAI` `Docker` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 AI-Integrated Full Stack App
-> Next.js + FastAPI + LLM-powered web application
-
-- MERN / Next.js frontend with real-time AI chat
-- JWT auth, PostgreSQL via NeonDB, REST APIs
-- Chainlit CUI for conversational interface layer
-- Containerized with Docker Compose
-
-**Stack:** `Next.js` `FastAPI` `PostgreSQL` `Chainlit` `Docker`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi)
-
-</td>
-</tr>
 </table>
 
 ---
