@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Agentic%20AI%20Engineer&descAlignY=55&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+Intelligent+Agentic+Systems+%F0%9F%A4%96;Full+Stack+Dev+%E2%80%94+MERN+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;LLM+Integration+%26+RAG+Pipelines+%F0%9F%A7%A0;Voice+AI+%7C+Multi-Agent+Orchestration+%F0%9F%94%8A;Cloud-Native+Deployments+%E2%80%94+Docker+%2B+K8s+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+Intelligent+Agentic+Systems+%F0%9F%A4%96;Full+Stack+Dev+%7C+Next.js+%7C+FastAPI+%F0%9F%92%BB;LLM+Integration+%26+RAG+Pipelines+%F0%9F%A7%A0;Voice+AI+%7C+Multi-Agent+Orchestration+%F0%9F%94%8A;Cloud-Native+Deployments+%E2%80%94+Docker+%2B+K8s+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,16 +39,16 @@ class MuhammadHuzaifa:
         self.name      = "Muhammad Huzaifa"
         self.location  = "Lahore, Pakistan 🇵🇰"
         self.education = "BS Software Engineering — University of Lahore"
-        self.roles     = ["Full Stack Developer", "Agentic AI Engineer"]
+        self.roles     = "Agentic AI Engineer"
 
         self.stack = {
             "frontend"   : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-            "backend"    : ["Node.js", "Express", "FastAPI", "Python"],
+            "backend"    : ["Node.js","FastAPI", "Python"],
             "ai"         : ["OpenAI Agents SDK", "LangChain",
                             "LlamaIndex", "Claude AI", "Gemini"],
             "voice_ai"   : ["LiveKit Agents", "Deepgram Nova-3", "Groq LLM", "Cartesia Sonic-3", "Twilio SIP", "MCP"],
-            "cloud"      : ["Docker", "Kubernetes", "Vercel", "AWS"],
-            "databases"  : ["PostgreSQL", "MongoDB", "Pinecone", "ChromaDB"],
+            "cloud"      : ["Docker", "Kubernetes", "Vercel"],
+            "databases"  : ["PostgreSQL", "MySQL","ChromaDB"],
         }
 
     def current_focus(self):
@@ -64,57 +64,6 @@ print("Let's build intelligent systems — together. ☕→🤖")
 ```
 
 <br clear="right"/>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔊 LiveKit Outbound Voice AI Agent
-> Production-ready AI phone agent for outbound calls
-
-- Two-process architecture: persistent agent worker + SIP call trigger
-- **STT** Deepgram Nova-3 · **LLM** Groq (Llama 3.3 70B) · **TTS** Cartesia Sonic-3
-- Twilio SIP trunking via LiveKit · Silero VAD for turn management
-- **MCP tool integration** — Calendar (book/cancel/check) & CRM (create/score/update leads) via Model Context Protocol
-- Agent personas: Appointment Reminder & Lead Qualification
-
-**Stack:** `LiveKit` `Deepgram` `Groq` `Cartesia` `Twilio` `MCP` `Python 3.13`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi/livekit-outbound-agent)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 RAG Pipeline System
-> Production-grade Retrieval-Augmented Generation
-
-- Multi-source document ingestion & chunking
-- Intelligent chunking + semantic search with Chroma
-- LlamaIndex orchestration + OpenAI embeddings
-- FastAPI REST interface with streaming responses
-- AI-generated answers using Google Gemini 2.5 Flash
-
-**Stack:** `LlamaIndex` `ChromaDB` `FastAPI` `Google Gemini` `Docker`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/EngrHuzi/RAG-App)
-
-</td>
-</tr>
-
-<tr>
-
-
-
-
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
